@@ -3,7 +3,7 @@
 Ryan Lau (rwlau), Hong Lin (honglin)
 
 Project Website: [Simulating Deformation Using a Parallelized Finite Element
-Method]()
+Method](https://relu418.github.io/project-public/)
 
 ## 1. Summary
 
