@@ -2,4 +2,8 @@
 ## Simulating Deformation Using a Parallelized Finite Element Method
 Ryan Lau (rwlau), Hong Lin (honglin)
 
-[**Project proposal**](https://relu418.github.io/project-public/proposal)
+[**Project proposal**](/proposal)
+
+[**Schedule**](/schedule)
+
+[**Milestone report**](/milestone)
