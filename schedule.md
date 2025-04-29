@@ -12,17 +12,18 @@
     - Experiment with EllPack matrix format and conjugate gradient method
   - [x] Timing of serial CPU algorithm
   - [x] Milestone report due
-- [ ] Apr 16 - Apr 20
-  - [ ] Timing of initial GPU algorithm
-  - [ ] Experiment with blocking in ELLPACK format
-  - [ ] Experiment with graph-coloring 
-- [ ] Apr 21 - Apr 23
-  - [ ] Experiment with collocating elements with common vertices
-  - [ ] Output post-processing, stress visualization in ParaView
-- [ ] Apr 24 - Apr 27
-  - [ ] Time-integrator loop
-  - [ ] Write final report, prepare poster
-- [ ] Apr 28
-  - [ ] Final report due
+- [x] Apr 16 - Apr 20
+  - [x] Timing of initial GPU algorithm
+  - [x] Experiment with blocking in ELLPACK format
+  - [x] Experiment with graph-coloring 
+- [x] Apr 21 - Apr 23
+  - [x] Experiment with collocating elements with common vertices
+  - [x] Output post-processing, stress visualization in ParaView
+- [x] Apr 24 - Apr 27
+  - [x] Experiment with ELLWARP format and optimizations
+  - [x] Application of boundary forces
+  - [x] Write final report, prepare poster
+- [x] Apr 28
+  - [x] Final report due
 - [ ] Apr 29
   - [ ] Poster session
