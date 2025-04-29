@@ -9,3 +9,5 @@ Ryan Lau (rwlau), Hong Lin (honglin)
 [**Milestone report**](/milestone)
 
 [**Final Report**](/report.pdf)
+
+[**Poster**](/poster.pdf)
